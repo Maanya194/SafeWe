@@ -1,4 +1,5 @@
-Abstract:
+SafeWe - Personal Safety Application
+
 The "SafeWe Personal Safety Application" is an innovative mobile solution designed to enhance 
 personal safety through real-time risk analysis and emergency support features.    
 With one-touch SOS capabilities and live location sharing, the app ensures that users can quickly 
